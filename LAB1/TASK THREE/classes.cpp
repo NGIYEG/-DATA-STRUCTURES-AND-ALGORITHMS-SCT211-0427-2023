@@ -25,7 +25,7 @@ private:
             the_grade = 'D';
         else
             the_grade = 'E';
-    }
+    }                               
 };
 
 // Course class definition
@@ -105,7 +105,6 @@ private:
 int main() {
     StudentManager studentManager;
 
-    // Example usage
     Course computerScience("CS101", "Introduction to Computer Science");
     studentManager.addStudent(Student("12345", "John Doe", 20, computerScience));
     studentManager.editStudentDetails("12345", "John Smith", 21);
