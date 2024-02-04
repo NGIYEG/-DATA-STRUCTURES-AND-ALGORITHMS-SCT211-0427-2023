@@ -1,0 +1,1 @@
+The data structure and algorithm repository contains two sub repositories,the one is 'ARRAYS' for quizz 1 and the other sub repository is lab test 1 sub repostory,named 'LAB'.Each sub repository contains the solved coded solution and a readme file that further explains the coded solutions
