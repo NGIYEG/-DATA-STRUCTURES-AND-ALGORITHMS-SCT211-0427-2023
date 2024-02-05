@@ -1,0 +1,5 @@
+This is a Uml diagram on specification of a List Adt.The diagram explains and shows the operations of a list.
+The first row of the Uml specifies the Class name,the second row shows the size of the list adt where the size of the list is private and is an integer
+The third row of the uml presents the operations/functions/methods that are to be performed in a list adt.The operations are public hence preceeded by a plus(+) sign.
+
+.
